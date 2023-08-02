@@ -1,8 +1,9 @@
 import React from 'react'
+import "./Add.scss"
 
 const Add = () => {
   return (
-    <div>Add</div>
+    <div className='add'>Add</div>
   )
 }
 
