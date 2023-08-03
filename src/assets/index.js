@@ -1,8 +1,8 @@
 import ReactIcon from "./react.svg";
 import App from "./app.svg";
 import Backup from "./backup.svg";
-import Chart from "chart.svg";
-import Calender from "./calender.svg";
+import ChartIcon from "./chart.svg";
+import CalendarIcon from "./calendar.svg";
 import Conversion from "./conversionicon.svg";
 import Delete from "./delete.svg";
 import Element from "./element.svg";
@@ -33,8 +33,9 @@ export {
   ReactIcon,
   App,
   Backup,
-  Chart,
-  Calender,
+  ChartIcon,
+  // Chart,
+  CalendarIcon,
   Conversion,
   Delete,
   Element,
