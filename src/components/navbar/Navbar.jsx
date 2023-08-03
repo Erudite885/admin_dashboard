@@ -1,5 +1,5 @@
 import React from "react";
-import { App, Expand, NoAvatar, Search, Settings, logoIcon } from "../../assets/index";
+import { App, Expand, NoAvatar, Notifications, Search, Settings, logoIcon } from "../../assets/index";
 import "./Navbar.scss";
 
 const Navbar = () => {
