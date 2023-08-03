@@ -39,7 +39,7 @@ const ChartBox = (props) => {
         <div className="texts">
           <span
             className="percentage"
-            style={{ color: props.percentage } < 0 ? "tomato" : "limegreen"}
+            style={{ color: props.percentage < 0 ? "tomato" : "limegreen" }}
           >
             {props.percentage}%
           </span>
