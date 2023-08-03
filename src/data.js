@@ -1,4 +1,4 @@
-import second, {
+import  {
   Backup,
   CalendarIcon,
   ChartIcon,
@@ -18,7 +18,7 @@ import second, {
   noteIcon,
 } from "./assets/index";
 
-export const menu = [
+export  const menu = [
   {
     id: 1,
     title: "main",
