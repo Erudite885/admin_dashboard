@@ -6,7 +6,9 @@ import { Delete, View } from "../../assets";
 import "./DataTable.scss";
 
 const DataTable = (props) => {
-  const deleteHandler = (id) => {};
+  const deleteHandler = (id) => {
+    console.log(id + "deleted");
+  };
 
   const actionColumn = {
     field: "action",
