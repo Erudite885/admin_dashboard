@@ -3,7 +3,7 @@ import App from "./app.svg";
 import Backup from "./backup.svg";
 import ChartIcon from "./chart.svg";
 import CalendarIcon from "./calendar.svg";
-import Conversion from "./conversionicon.svg";
+import Conversion from "./conversionIcon.svg";
 import Delete from "./delete.svg";
 import Element from "./element.svg";
 import Expand from "./expand.svg";
