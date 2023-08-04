@@ -1,8 +1,12 @@
 import React from 'react'
 import "./User.scss";
+import { Single } from '../../components';
+import { singleUser } from '../../data';
 const User = () => {
   return (
-    <div>User</div>
+    <div className="user">
+      <Single {...singleUser} />
+   </div>
   )
 }
 
