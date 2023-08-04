@@ -3,6 +3,7 @@ import React, { useState } from "react";
 
 import { Add, DataTable } from "../../components";
 import { userRows } from "../../data";
+import { NoAvatar } from "../../assets";
 import "./Users.scss";
 
 const columns = [
@@ -12,7 +13,7 @@ const columns = [
     headerName: "Avatar",
     width: 100,
     renderCell: (params) => {
-      return <img src={params.row.img || "/noavatar.png"} alt="" />;
+      return <img src={params.row.img || NoAvatar} alt="" />;
     },
   },
   {
