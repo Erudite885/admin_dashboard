@@ -2,18 +2,20 @@
 
 This is a [Simple Admin Dashboard](https://admin-dashboard-fawn-kappa.vercel.app/)
 
-![Dashboard Overview](https://www.markdownguide.org/assets/images/tux.png)
+![Dashboard Overview](./src/assets/admin_overview.png)
 
 ## Features:
 
 Its features includes
 
+
+
 - Home page
 - Users page
-  ![Users Page](https://www.markdownguide.org/assets/images/tux.png)
+  ![Users Page](./src/assets/admin_users_page.png)
 - User detail
 - Product page
-  ![Product Page](https://www.markdownguide.org/assets/images/tux.png)
+  ![Product Page](./src/assets/admin_product_page.png)
 - Product detail, &
 - A Colapsable Sidebar
 
