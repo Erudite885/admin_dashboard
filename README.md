@@ -1,9 +1,32 @@
-# React + Vite
+### ADMIN DASHBOARD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a [Simple Admin Dashboard](https://admin-dashboard-fawn-kappa.vercel.app/)
 
-Currently, two official plugins are available:
+![Dashboard Overview](https://www.markdownguide.org/assets/images/tux.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features:
+
+Its features includes
+
+- Home page
+- Users page
+  ![Users Page](https://www.markdownguide.org/assets/images/tux.png)
+- User detail
+- Product page
+  ![Product Page](https://www.markdownguide.org/assets/images/tux.png)
+- Product detail, &
+- A Colapsable Sidebar
+
+## Technologies:
+
+Frontend
+React + Vite, Recharts, MUI and SCSS/SASS
+Deployed on Vercel
+
+## Frontend Npm libraries
+- MaterialUI MUI
+- react-router-dom v6
+- recharts
+- sass 
+  
 
