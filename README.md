@@ -1,6 +1,6 @@
 ###  [ADMIN DASHBOARD](https://admin-dashboard-fawn-kappa.vercel.app/)
 
-This is a [Simple Admin Dashboard](https://admin-dashboard-fawn-kappa.vercel.app/)
+This is a [Simple Responsive Admin Dashboard](https://admin-dashboard-fawn-kappa.vercel.app/)
 
 ![Dashboard Overview](./src/assets/admin_overview.png)
 
